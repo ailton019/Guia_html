@@ -1,0 +1,49 @@
+@charset "UTF-8";
+img#imagem{
+    width: 200px;
+    height: 200px;
+    position:absolute ;
+    top: 9%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+body{
+    background-color:#DCD8CF ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h1{
+    color: #1E3D59;
+
+}
+h1#titulo_principal{
+    margin-top: 250px;
+    color: #2F2F2F;
+    font-size: 50px;
+    text-align: center;
+    position: relative;
+
+}
+h2{
+    color: #1469AE;
+}
+p{
+    color: #3a2d2f;
+    font-size: 23px;
+
+}
+.basico{
+    color: greenyellow;
+    font-weight: bolder;
+
+}
+.intermediario{
+    color: yellow;
+    font-weight: bolder;
+
+}
+.avancado{
+    color: red;
+    font-weight: bolder;
+
+}
